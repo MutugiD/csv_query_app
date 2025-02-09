@@ -1,6 +1,8 @@
 # CSV Dataset Query Assistant
 
-An intelligent chatbot that helps you analyze and query CSV datasets using natural language. Built with Streamlit, LangChain, and OpenAI's GPT models.
+An intelligent chatbot that helps you analyze and query CSV datasets using natural language, and more able to answer some statistical questions. Built with Streamlit, LangChain, and OpenAI's GPT models.
+
+Refining the setup for average to advanced statistical queries. 
 
 ## Features
 
