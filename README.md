@@ -15,7 +15,7 @@ An intelligent chatbot that helps you analyze and query CSV datasets using natur
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/csv-query-assistant.git
+git clone https://github.com/MutugiD/csv_query_app
 cd csv-query-assistant
 
 2. Install dependencies:
