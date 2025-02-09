@@ -14,26 +14,22 @@ An intelligent chatbot that helps you analyze and query CSV datasets using natur
 ## Installation
 
 1. Clone the repository:
-bash
-git clone https://github.com/MutugiD/csv_query_app
-cd csv-query-assistant
+```git clone https://github.com/MutugiD/csv_query_app```
+
+Then cd into the csv_query_app directory:
+```cd csv_query_app```
+
 
 2. Install dependencies:
-
-bash
-pip install -r requirements.txt
-
+```pip install -r requirements.txt```
 3. Set up environment variables:
 
 Create a `.env` file in the root directory with your OpenAI API key:
-OPENAI_API_KEY=your_openai_api_key
+```OPENAI_API_KEY=your_openai_api_key```
 
 ## Usage
-
 1. Run the Streamlit app:
-
-bash
-python -m csv_query.run
+```python -m csv_query.run```
 
 2. Upload your CSV file and interact with the chatbot.
 
